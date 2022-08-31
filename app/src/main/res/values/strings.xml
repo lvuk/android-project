@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodHelper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="write_main_ingredient">Write main ingredient</string>
+    <string name="beef">Beef</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="chicken">Chicken</string>
+    <string name="dessert">Dessert</string>
+    <string name="goat">Goat</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pasta">Pasta</string>
+    <string name="pork">Pork</string>
+    <string name="seafood">Seafood</string>
+    <string name="side">Side</string>
+    <string name="starter">Starter</string>
+    <string name="vegan">Vegan</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="how_to_make">How to make?</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+</resources>
